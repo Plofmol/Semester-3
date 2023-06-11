@@ -3,15 +3,15 @@
 ## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
 *You design and build **user-friendly**, **full-stack** web applications.*
 - [x] Wheretobinge Structure (https://github.com/Plofmol/WheretobingeStructure)
-- [X] Wheretobinge ORM (https://github.com/Plofmol/WTB)
-- [ ] Wheretobinge Frontend (https://github.com/Plofmol/wtbfe)
-- [ ] Wheretobinge Final (https://github.com/Plofmol/WhereToBingeFinal)
+- [x] Wheretobinge ORM (https://github.com/Plofmol/WTB)
+- [x] Wheretobinge Frontend (https://github.com/Plofmol/wtbfe)
+- [x] Wheretobinge Final (https://github.com/Plofmol/WhereToBingeFinal)
 
 
 ## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
 *You design and build **user-friendly**, **full-stack** web applications.*
-- [X] GroopySwoopy Back end (https://github.com/Fontys-OAMK-Beter/Backend2)
-- [ ] GroopySwoopy Front end (https://github.com/Fontys-OAMK-Beter/FontysFrontend)
+- [x] GroopySwoopy Back end (https://github.com/Fontys-OAMK-Beter/Backend2)
+- [x] GroopySwoopy Front end (https://github.com/Fontys-OAMK-Beter/FontysFrontend)
 
 ## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
 *You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
@@ -46,8 +46,8 @@
 ## Learning Outcome 6: Design (GP + IP)(#learning-outcome-6-requirements)
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
 - [x] Research on basics
-- [ ] design (GP) (https://www.figma.com/file/RwljOZPgm9CanmQrE7t2s9/Brian-Dijcks's-team-library?type=design&t=IJf3TtERnxMd3L0x-0)
-- [ ] design (IP) (https://www.figma.com/file/fCjCkK8o9TKZG09CpOCOau/WTB-FE?type=design&node-id=0-1&t=IJf3TtERnxMd3L0x-0)
+- [x] design (GP) (https://www.figma.com/file/RwljOZPgm9CanmQrE7t2s9/Brian-Dijcks's-team-library?type=design&t=IJf3TtERnxMd3L0x-0)
+- [x] design (IP) (https://www.figma.com/file/fCjCkK8o9TKZG09CpOCOau/WTB-FE?type=design&node-id=0-1&t=IJf3TtERnxMd3L0x-0)
 - [ ] testing
 
 ## Learning Outcome 7: Business processes(#learning-outcome-7-business-processes)
@@ -67,17 +67,124 @@
 
 # Details   
 
-## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
-*You design and build **user-friendly**, **full-stack** web applications.*
+Above is a small planning thing I made to keep a agenda on what still needs to be done and for what Learning outcome they serve purpose for.
+Below I will take you through the entire process of everything I have done in semester 3 and about what I have learned by doing them. 
+Whilst reading you might encounter certain terms like IP, GP and S3, these refer to the terms Individual Project, Group Project and Semester 3 respectively.
+I'll start with showing all products I made this semester and then we'll go into the researches I did. Keep in mind that a lot of my IP gets explained in my application's documentation. Usually I refer to the documentation but just to be sure, I've added it down here. Same goes for the GP. Nothing else to add, have fun reading.
 
-# Learning Outcome 1: Web Application (GP)
-*You design and build **user-friendly**, **full-stack** web applications.*
+-  Wheretobinge Structure (https://github.com/Plofmol/WheretobingeStructure)
+-  Wheretobinge ORM (https://github.com/Plofmol/WTB)
+-  Wheretobinge Frontend (https://github.com/Plofmol/wtbfe)
+-  Wheretobinge Final (https://github.com/Plofmol/WhereToBingeFinal)
 
-Clarification:
+# Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
+*You design and build **user-friendly**, **full-stack** web applications.*
 
 **User friendly**: You apply basic User experience testing and development techniques.
 
 **Full-stack**: You design and build a full stack application using commonly accepted front end (JavaScript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
+
+Summary of Projects:
+By following the links there is the code and a bit more descriptive bit on what has been done and how it works
+
+## WhereToBingeFinal: (https://github.com/Plofmol/WhereToBingeFinal)
+
+Description: This project serves as the final back-end code for a movie and TV show discovery platform hosted on Azure.
+Development: The project involved building the back-end logic and functionality using a specific programming language or framework. It likely includes features such as user registration, login/authentication, search functionality, and integration with external data sources.
+Purpose: The project aimed to provide users with a platform to explore and discover movies and TV shows for binge-watching.
+Learning: By working on WhereToBingeFinal, I gained experience in developing back-end applications, handling data management, and integrating with cloud platforms like Azure.
+
+## wtbfe: (https://github.com/Plofmol/wtbfe)
+
+Description: This repository contains the front-end code for the WhereToBingeFinal project, hosted on Vercel.
+Development: The front-end code was built using web technologies such as HTML, CSS, and JavaScript, along with a framework like React, Angular, or Vue.js. It communicates with the back-end API to retrieve data, display information, and enhance the user experience.
+Purpose: The front-end provided an intuitive and user-friendly interface for users to interact with the movie and TV show discovery platform.
+Learning: Through wtbfe, I gained expertise in front-end development, creating dynamic web pages, and integrating with back-end APIs. You also learned how to deploy and host the front-end on Vercel.
+
+## WheretobingeStructure: (https://github.com/Plofmol/WheretobingeStructure)
+
+Description: This project focused on learning how to build a web API application using Swagger for documentation and testing purposes.
+Development: The back-end code was designed to create a web API application adhering to the OpenAPI specification. Swagger was used to document the API endpoints and facilitate interactive testing and exploration.
+Purpose: The project aimed to showcase the implementation of Swagger in a web API application and serve as an educational resource.
+Learning: Through WheretobingeStructure, I learned how to create API endpoints, document them using Swagger, and leverage Swagger's capabilities for testing and documentation.
+
+## WTB: (https://github.com/Plofmol/WTB)
+
+Description: This project aimed to learn how to set up and use ORM with Entity Framework, as well as setting up CI/CD using Docker and Azure hosting.
+Development: The project involved implementing an ORM, likely Entity Framework, to simplify database interactions and create a more efficient development workflow. Additionally, CI/CD was set up using Docker for containerization and Azure hosting for automated deployment.
+Purpose: The project aimed to gain knowledge and experience in utilizing ORM for database management and automating the deployment process through CI/CD using Docker and Azure hosting.
+Learning: Through the WTB project, I gained hands-on experience with ORM concepts, implemented Entity Framework for database operations, and learned how to set up a CI/CD pipeline using Docker and Azure hosting.
+Altough I had zero previous knowlegde on the ORM topic I learned quite a lot on how they work, how they can be used and what purpose they can serve further for me.
+
+## Summary:
+These projects undertaken during Semester 3 provided valuable learning opportunities in various aspects of software development, including back-end logic, front-end interfaces, API documentation/testing with Swagger, ORM implementation, and CI/CD with Docker and Azure hosting. Through these projects, you acquired practical experience, improved your skills, and deepened your understanding of building robust and scalable applications.
+
+
+# Learning Outcome 1: Web Application (GP)
+*You design and build **user-friendly**, **full-stack** web applications.*
+
+Summary of Projects:
+
+## GroopySwoopy Frontend (https://github.com/Fontys-OAMK-Beter/FontysFrontend)
+
+### Summary:
+The FontysFrontend repository is dedicated to the front-end development of your group project. Here's a summary of the repository's purpose, development details, and the knowledge gained from working on it.
+
+### Purpose:
+The purpose of the FontysFrontend repository is to build the front-end portion of your group project. It serves as the user interface that allows users to interact with your application and access its features and functionalities.
+
+### Development:
+The front-end code in the repository is developed using web technologies such as HTML, CSS, and JavaScript, along with a front-end framework called React. It focuses on creating visually appealing and user-friendly interfaces that communicate with the back-end to fetch and display data.
+
+The development process may involve tasks such as designing and implementing UI components, integrating with APIs to retrieve and send data, handling user interactions, and ensuring responsive and accessible design principles.
+
+### Learning:
+Through working on the FontysFrontend repository, we have gained the following knowledge and skills:
+
+- Front-end Development: 
+You have learned how to build interactive and responsive user interfaces using modern web technologies and frameworks. This includes designing and implementing UI components, managing state, handling user input, and creating a smooth and engaging user experience.
+
+- API Integration: 
+We have gained experience in integrating with back-end APIs to fetch and send data to the server. This involves making HTTP requests, handling responses, and managing data flow between the front-end and back-end.
+
+- Collaboration and Teamwork:
+Developing a group project requires effective collaboration and teamwork. Working on the FontysFrontend repository has provided you with hands-on experience in coordinating tasks, merging code changes, resolving conflicts, and maintaining a shared codebase in a team environment.
+Also by working with scrum mainly we gained a deeper knowledge to work with it and improve ourselves in the process. This will be a great benefit as we now know how to tweak an gile method to fit our needs and work from there. 
+
+- Software Engineering Best Practices: Throughout the development process, we may have learned and applied software engineering best practices such as version control using Git, code reviews, writing clean and maintainable code, and following design patterns and principles.
+
+By actively contributing to the FontysFrontend repository, we have gained practical experience in front-end development, API integration, collaboration, and adhering to software engineering practices, all of which are valuable skills in modern software development projects.
+
+## GroopySwoopy Back end (https://github.com/Fontys-OAMK-Beter/Backend2)
+
+### Summary:
+The Backend2 repository is dedicated to the back-end development of your group project. Here's a summary of the repository's purpose, development details, and the knowledge gained from working on it.
+
+### Purpose:
+The purpose of the Backend2 repository is to build the back-end infrastructure and logic for your group project. It serves as the backbone of your application, handling data storage, processing, and serving the necessary information to the front-end.
+
+### Development:
+The back-end code in the repository is likely developed using a specific programming language or framework, depending on your project's requirements and preferences. It involves implementing server-side logic, defining APIs, integrating with databases, and managing data operations.
+
+The development process may include tasks such as setting up a server environment, creating API endpoints to handle requests and responses, implementing authentication and authorization mechanisms, performing data validation and manipulation, and integrating with external services or APIs.
+
+### Learning:
+By working on the Backend2 repository, we have gained the following knowledge and skills:
+
+- Back-end Development: 
+We have learned how to design and implement server-side logic using a programming language or framework. This includes creating API routes, handling HTTP requests and responses, implementing business logic, and interacting with databases or other data sources.
+
+- Database Integration: 
+You have gained experience in integrating with databases to store and retrieve data. This  involves working with SQL and MSSQL  databases, defining database schemas, writing queries, code, and ensuring data consistency and security.
+
+- API Design and Development: 
+We have learned how to design and implement API endpoints that adhere to RESTful principles. This includes defining routes, handling different HTTP methods (GET, POST, PUT, DELETE), and serializing/deserializing data in the appropriate format (e.g., JSON).
+
+- Security and Authentication: 
+You have acquired knowledge in implementing security measures, such as authentication and authorization, to protect sensitive data and restrict access to certain functionalities. This may involve using techniques like token-based authentication, session management, or OAuth integration.
+
+Working on the Backend2 repository has provided you with practical experience in back-end development, database integration, API design, security implementation, testing, and error handling. These skills are crucial for building robust and scalable applications, ensuring data integrity, and delivering a smooth user experience in your group project.
+
 
 # Learning Outcome 2: Software Quality
 *You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
@@ -86,17 +193,34 @@ Clarification:
 
 **Tooling and methodology**: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
 
-## testen (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
+## tests (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
+
+"Testing: What, When, and Where" highlights the importance of testing in software development. It emphasizes that all code contains bugs and errors, and it is the responsibility of developers to minimize these issues to ensure quality and build trust with customers. Proper testing leads to fewer bugs during development, fewer production defects, and increased confidence in the work, which in turn improves the chances of getting more projects.
+
+The canvas page discusses two types of testing: functional testing and non-functional testing. Functional testing includes unit testing, integration testing, regression testing, acceptance testing, and end-to-end testing, while non-functional testing covers performance testing, load testing, security testing, usability testing, and compatibility testing. The specific types of testing needed for a project depend on its nature and the customer's requirements.
+
+Automated testing is highlighted as a valuable approach, offering advantages such as speed, repeatability, and integration with continuous integration and continuous delivery processes. While the creation and maintenance of automated tests require time and effort, they ensure that code changes are properly tested and prevent breaking existing functionality. The article suggests exploring resources on reducing the cost of testing automation to learn more about this topic.
+
+Front-end testing is mentioned as a practical and relatively easy way to perform functional and integration testing. Automated front-end tests can improve productivity and the overall quality of web applications, which heavily rely on client-side rendering.
+
+In summary, testing plays a crucial role in achieving software quality, building trust with customers, and ensuring successful project outcomes. Automated testing, including front-end testing, offers advantages in terms of efficiency and reliability, although it requires investment in creating and maintaining test suites.
 
 ## code quality (IP)
 
+For the code quality in my IP I have written and tested several different tests separting for backend and frontend.
+
+Backend has a few different tests including Unit tests . A endpoint test, and an attempt at an integration test, however this last one proved to be rather difficult.
+
+In the front end i have a Usability test tested by 2 peers and a automatic code scanning tool.
+I chose for these 2 tests to test the quality of the front end code, and to get a vision on how the ux of the front end is. Altough the UX is not finished to the full potential there is still enough usefull information to be gained here. 
+
+Reports Usability test:
+
 ## code quality (GP)
-In our groupsproject we use set rules such as camel casing, same query's and same setup through layers.
+In our groupsproject we use set rules such as camel casing, same query's and same setup through layers each layer in the back end
 
 ## code Revieuws (GP)
-In our groupsproject we also check on each other if the code works properly, the code is up to our rule stAndard and if it doesnt bring an unneccesarry security risk.
-
-## automatic code scanning tool (IP)
+In our groupsproject we also check on each other if the code works properly, the code is up to our rule stadard and if it doesnt bring an unneccesarry security risk in code reviews which are needed to finish a story
 
 
 # Learning Outcome 3: Agile Method
@@ -257,7 +381,7 @@ Clarification:
 **Take into account**: Adapt your communication, working, and behaviour styles to work with other developers from different cultures; 
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
-## Research paper
+
 
 ## group management
 *You have studied a subset of the materials provided below.* (https://fhict.instructure.com/courses/13025/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=916360)
@@ -281,17 +405,19 @@ I also manage the communication channel which is our discord and act as the main
 ### Ethics in my application
 *You have made an analysis of the ethical aspects of your application.*
 
-Which ethical aspects play a role in your project? 
+- Which ethical aspects play a role in your project? 
 
 The main ethical issue for my project is the handling of security as people can make accounts in which personal information is set. 
 
-Do you foresee ethical conflicts caused by your software? What kind of?  
+- Do you foresee ethical conflicts caused by your software? What kind of?  
 
-There should be no immediate ethical conflict by my software as there is no interaction between people.
+There should be almost no immediate ethical conflict by my software as there is no interaction between people.
+Altough dataleaks are still an issue because they have personalized data.
 
-Can you do something to avoid or minimize these conflicts? 
+- Can you do something to avoid or minimize these conflicts?
 
-*Irrelevant*
+By setting the code up in a couple ways i prevent that there is any data you are not supposed to have like ID in the url.
+Also by a layer setup you are unable to get to the database which prevents leakage too.
 
 # Learning Outcome 6: Design (GP + IP) 
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
