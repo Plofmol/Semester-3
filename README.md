@@ -230,6 +230,10 @@ Clarification:
 
 **Agile** method: You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
 
+## Research on agile
+
+https://1drv.ms/w/s!AnluVeWJQDJykznm_dSNLxK6PEc_?e=zRkYtN
+
 ## Agile
 
 What is agile?
