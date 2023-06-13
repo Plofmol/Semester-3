@@ -26,7 +26,7 @@
 - [x] Research Scrum
 - [x] Research waterfall
 - [x] Research Kanban
-- [ ] Researchpaper on agile (link)
+- [x] Researchpaper on agile (link)
 
 ## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
 *You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
@@ -38,9 +38,9 @@
 
 ## Learning Outcome 5: Cultural Differences and Ethics(#learning-outcome-5-cultural-differences-and-ethics)
 *You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
-- [ ] Research paper 
+- [x] Research paper 
 - [x] group management
-- [ ] software ethics 
+- [x] software ethics 
 
 
 ## Learning Outcome 6: Design (GP + IP)(#learning-outcome-6-requirements)
@@ -58,12 +58,12 @@
  
 ## Learning Outcome 8: Professional (IP)(#learning-outcome-8-professional-ip)(#learning-outcome-8-professional-ip)
 *You act in a **professional manner** during software development and learning.*
-- [ ] Feedpulse
+- [x] Feedpulse
 
 ## Learning Outcome 8: Professional (GP)(#learning-outcome-8-professional-gp)(#learning-outcome-8-professional-gp)
 *You act in a **professional manner** during software development and learning.*
 - [x] Team Communication
-- [ ] Communication with the Stakeholders
+- [x] Communication with the Stakeholders
 
 # Details   
 
@@ -490,15 +490,7 @@ Clarification:
 
 ### general questions
 
-- Does your software automate a task, facilitate a task, or make a new task possible to perform? 
-my software automatically checks in which country a movie or series is availlable on which information previously only was given through a random reddit post. 
-
-- Which is the process that your software supports/automates? Can you visualize it in a diagram?
-
-- Which roles are involved in this process? The work of which people (their roles) will this software influence? 
-
-
-- Which steps of the process does your software support/automate? Can you visualize the new process in a diagram? 
+Document ( )
 
  
 # Learning Outcome 8: Professional (IP)
@@ -523,18 +515,17 @@ For communicating with out stakeholders we invite them through email to join a t
 Idividual questions online also go through teams.
 If we need something else and they are at school we ask them directly.
 
-## What are the others doing?
-
-## Ask for feedback
-
-## Technical Decisions
-
-# Research
 
 # Reflection
 
  ## What went good?
- explanation
- 
+
+My presence in the team was in my experience quite positive, as I was the main voice and "Leader" of the team.
+
+The coding work I got done.
+I am genuinely proud of how quick I got my project up and running, altough it is far from being finished, I love the way it turned out looks wise and with some adjustements would actually be usefull in the future.
+
  ## What will I do different next time?
- explanation
+I will try to keep a more steady pace of working.
+This semester was so inconsistent that when i finally got to work everything worked out, altough this is not the intended way to show my process, so that is the biggest thing that I would change.
+Also the next time i want to change my way of working by properly starting with an agile way of working and keeping that all the way through.
