@@ -409,6 +409,10 @@ I also manage the communication channel which is our discord and act as the main
 ### Ethics in my application
 *You have made an analysis of the ethical aspects of your application.*
 
+For an indept research on how my program and code handles ethics is further information in my Research report (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2491&ithint=file%2cdocx&ct=1686728319637&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=ff06ceaa-5e05-465c-a2c5-1d4e0027bb10)
+
+In my research I describe how I currently handle the safety of user data, and how i recognize and can tackle future risks.
+
 - Which ethical aspects play a role in your project? 
 
 The main ethical issue for my project is the handling of security as people can make accounts in which personal information is set. 
