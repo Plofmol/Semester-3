@@ -15,11 +15,11 @@
 
 ## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
 *You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
-- [ ] testen (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
-- [ ] code quality (IP)
-- [ ] code quality (GP)
-- [ ] Pipeline FE Test (IP)
-- [ ] automated code scanning tool (IP)
+- [x] testen (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
+- [x] code quality (IP)
+- [x] code quality (GP)
+- [x] Pipeline FE Test (IP)
+- [x] automated code scanning tool (IP)
 
 ## Learning Outcome 3: Agile Method(#learning-outcome-3-agile-method)
 *You can implement the software process for your project according to a given agile software development method.*
@@ -48,13 +48,13 @@
 - [x] Research on basics
 - [x] design (GP) (https://www.figma.com/file/RwljOZPgm9CanmQrE7t2s9/Brian-Dijcks's-team-library?type=design&t=IJf3TtERnxMd3L0x-0)
 - [x] design (IP) (https://www.figma.com/file/fCjCkK8o9TKZG09CpOCOau/WTB-FE?type=design&node-id=0-1&t=IJf3TtERnxMd3L0x-0)
-- [ ] testing
+- [x] testing
 
 ## Learning Outcome 7: Business processes(#learning-outcome-7-business-processes)
 *You can explain **simple** business processes and **relate** them to the development of your software project.*
-- [ ] analyzing and modeling an exisitng business process in project (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I_)
-- [ ] analyzing process and improving on conclusions (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I)
-- [ ] modeled new process and improved involment of roles in project (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I)
+- [x] analyzing and modeling an exisitng business process in project (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I_)
+- [x] analyzing process and improving on conclusions (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I)
+- [x] modeled new process and improved involment of roles in project (https://onedrive.live.com/edit.aspx?resid=72324089E5556E79!2389&ithint=file%2cdocx&authkey=!AD1tLuGm98qkP1I)
  
 ## Learning Outcome 8: Professional (IP)(#learning-outcome-8-professional-ip)(#learning-outcome-8-professional-ip)
 *You act in a **professional manner** during software development and learning.*
